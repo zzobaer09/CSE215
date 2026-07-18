@@ -1,5 +1,4 @@
-package class1;
-
+package class02;
 import java.util.Scanner;
 
 public class CelToFahren {
